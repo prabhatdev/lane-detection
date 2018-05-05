@@ -1,1 +1,1 @@
-# lane-detection
+The code allows you to play any racing game. It captures a certain part of your screen where the game is being played and feeds it as a video input. The python code then works on the video detects the lanes and presses the respective keys require to turn the program.
